@@ -1,0 +1,10 @@
+C:\Users\Samrat Banerjee\source\repos\HeadFirst3\HeadFirst3\bin\Debug\HeadFirst3.exe.config
+C:\Users\Samrat Banerjee\source\repos\HeadFirst3\HeadFirst3\bin\Debug\HeadFirst3.exe
+C:\Users\Samrat Banerjee\source\repos\HeadFirst3\HeadFirst3\bin\Debug\HeadFirst3.pdb
+C:\Users\Samrat Banerjee\source\repos\HeadFirst3\HeadFirst3\obj\Debug\HeadFirst3.csprojAssemblyReference.cache
+C:\Users\Samrat Banerjee\source\repos\HeadFirst3\HeadFirst3\obj\Debug\HeadFirst3.Form1.resources
+C:\Users\Samrat Banerjee\source\repos\HeadFirst3\HeadFirst3\obj\Debug\HeadFirst3.Properties.Resources.resources
+C:\Users\Samrat Banerjee\source\repos\HeadFirst3\HeadFirst3\obj\Debug\HeadFirst3.csproj.GenerateResource.cache
+C:\Users\Samrat Banerjee\source\repos\HeadFirst3\HeadFirst3\obj\Debug\HeadFirst3.csproj.CoreCompileInputs.cache
+C:\Users\Samrat Banerjee\source\repos\HeadFirst3\HeadFirst3\obj\Debug\HeadFirst3.exe
+C:\Users\Samrat Banerjee\source\repos\HeadFirst3\HeadFirst3\obj\Debug\HeadFirst3.pdb
