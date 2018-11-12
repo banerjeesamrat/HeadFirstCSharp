@@ -1,0 +1,10 @@
+C:\Users\Samrat Banerjee\source\repos\HeadFirst5\HeadFirst5\bin\Debug\HeadFirst5.exe.config
+C:\Users\Samrat Banerjee\source\repos\HeadFirst5\HeadFirst5\bin\Debug\HeadFirst5.exe
+C:\Users\Samrat Banerjee\source\repos\HeadFirst5\HeadFirst5\bin\Debug\HeadFirst5.pdb
+C:\Users\Samrat Banerjee\source\repos\HeadFirst5\HeadFirst5\obj\Debug\HeadFirst5.csprojAssemblyReference.cache
+C:\Users\Samrat Banerjee\source\repos\HeadFirst5\HeadFirst5\obj\Debug\HeadFirst5.Form1.resources
+C:\Users\Samrat Banerjee\source\repos\HeadFirst5\HeadFirst5\obj\Debug\HeadFirst5.Properties.Resources.resources
+C:\Users\Samrat Banerjee\source\repos\HeadFirst5\HeadFirst5\obj\Debug\HeadFirst5.csproj.GenerateResource.cache
+C:\Users\Samrat Banerjee\source\repos\HeadFirst5\HeadFirst5\obj\Debug\HeadFirst5.csproj.CoreCompileInputs.cache
+C:\Users\Samrat Banerjee\source\repos\HeadFirst5\HeadFirst5\obj\Debug\HeadFirst5.exe
+C:\Users\Samrat Banerjee\source\repos\HeadFirst5\HeadFirst5\obj\Debug\HeadFirst5.pdb

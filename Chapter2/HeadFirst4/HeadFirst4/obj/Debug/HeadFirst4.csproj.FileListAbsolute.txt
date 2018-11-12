@@ -1,0 +1,10 @@
+C:\Users\Samrat Banerjee\source\repos\HeadFirst4\HeadFirst4\bin\Debug\HeadFirst4.exe.config
+C:\Users\Samrat Banerjee\source\repos\HeadFirst4\HeadFirst4\bin\Debug\HeadFirst4.exe
+C:\Users\Samrat Banerjee\source\repos\HeadFirst4\HeadFirst4\bin\Debug\HeadFirst4.pdb
+C:\Users\Samrat Banerjee\source\repos\HeadFirst4\HeadFirst4\obj\Debug\HeadFirst4.csprojAssemblyReference.cache
+C:\Users\Samrat Banerjee\source\repos\HeadFirst4\HeadFirst4\obj\Debug\HeadFirst4.Form1.resources
+C:\Users\Samrat Banerjee\source\repos\HeadFirst4\HeadFirst4\obj\Debug\HeadFirst4.Properties.Resources.resources
+C:\Users\Samrat Banerjee\source\repos\HeadFirst4\HeadFirst4\obj\Debug\HeadFirst4.csproj.GenerateResource.cache
+C:\Users\Samrat Banerjee\source\repos\HeadFirst4\HeadFirst4\obj\Debug\HeadFirst4.csproj.CoreCompileInputs.cache
+C:\Users\Samrat Banerjee\source\repos\HeadFirst4\HeadFirst4\obj\Debug\HeadFirst4.exe
+C:\Users\Samrat Banerjee\source\repos\HeadFirst4\HeadFirst4\obj\Debug\HeadFirst4.pdb
