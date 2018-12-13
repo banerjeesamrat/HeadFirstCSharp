@@ -1,0 +1,10 @@
+C:\Users\Samrat\source\repos\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.exe.config
+C:\Users\Samrat\source\repos\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.exe
+C:\Users\Samrat\source\repos\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.pdb
+C:\Users\Samrat\source\repos\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.csprojAssemblyReference.cache
+C:\Users\Samrat\source\repos\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.Form1.resources
+C:\Users\Samrat\source\repos\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.Properties.Resources.resources
+C:\Users\Samrat\source\repos\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.csproj.GenerateResource.cache
+C:\Users\Samrat\source\repos\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Samrat\source\repos\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.exe
+C:\Users\Samrat\source\repos\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.pdb
