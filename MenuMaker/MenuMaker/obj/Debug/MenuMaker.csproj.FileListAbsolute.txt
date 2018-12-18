@@ -1,0 +1,10 @@
+C:\Users\Samrat\source\repos\MenuMaker\MenuMaker\bin\Debug\MenuMaker.exe.config
+C:\Users\Samrat\source\repos\MenuMaker\MenuMaker\bin\Debug\MenuMaker.exe
+C:\Users\Samrat\source\repos\MenuMaker\MenuMaker\bin\Debug\MenuMaker.pdb
+C:\Users\Samrat\source\repos\MenuMaker\MenuMaker\obj\Debug\MenuMaker.csprojAssemblyReference.cache
+C:\Users\Samrat\source\repos\MenuMaker\MenuMaker\obj\Debug\MenuMaker.Form1.resources
+C:\Users\Samrat\source\repos\MenuMaker\MenuMaker\obj\Debug\MenuMaker.Properties.Resources.resources
+C:\Users\Samrat\source\repos\MenuMaker\MenuMaker\obj\Debug\MenuMaker.csproj.GenerateResource.cache
+C:\Users\Samrat\source\repos\MenuMaker\MenuMaker\obj\Debug\MenuMaker.csproj.CoreCompileInputs.cache
+C:\Users\Samrat\source\repos\MenuMaker\MenuMaker\obj\Debug\MenuMaker.exe
+C:\Users\Samrat\source\repos\MenuMaker\MenuMaker\obj\Debug\MenuMaker.pdb
