@@ -1,0 +1,10 @@
+C:\Users\Samrat\source\repos\Swapping\Swapping\bin\Debug\Swapping.exe.config
+C:\Users\Samrat\source\repos\Swapping\Swapping\bin\Debug\Swapping.exe
+C:\Users\Samrat\source\repos\Swapping\Swapping\bin\Debug\Swapping.pdb
+C:\Users\Samrat\source\repos\Swapping\Swapping\obj\Debug\Swapping.csprojAssemblyReference.cache
+C:\Users\Samrat\source\repos\Swapping\Swapping\obj\Debug\Swapping.Form1.resources
+C:\Users\Samrat\source\repos\Swapping\Swapping\obj\Debug\Swapping.Properties.Resources.resources
+C:\Users\Samrat\source\repos\Swapping\Swapping\obj\Debug\Swapping.csproj.GenerateResource.cache
+C:\Users\Samrat\source\repos\Swapping\Swapping\obj\Debug\Swapping.csproj.CoreCompileInputs.cache
+C:\Users\Samrat\source\repos\Swapping\Swapping\obj\Debug\Swapping.exe
+C:\Users\Samrat\source\repos\Swapping\Swapping\obj\Debug\Swapping.pdb
